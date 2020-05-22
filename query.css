@@ -1,0 +1,22 @@
+body{
+  background-color: grey;
+  border-radius: 10px;
+  margin:50px;
+  width:80%;
+  border-radius: 20px;
+
+}
+span{
+  color:red;
+}
+.button{
+  height:100px;
+  width:200px;
+  font-family: cursive;
+  background-color: lightgreen;
+  font-size: 30px;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Caveat', cursive;
+}
